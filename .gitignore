@@ -39,3 +39,6 @@ terraform.rc
 
 # Ignore JetBrains configuration files
 .idea/**
+
+# Ignore VSCode Directory
+.vscode/**
